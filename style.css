@@ -9,6 +9,12 @@
     part of this assignment has been distributed to other students.
 */
 
+.content-container {
+    max-width: 1024px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
 html {
     line-height: 1.15; /* 1 */
     -webkit-text-size-adjust: 95%; /* 2 */
